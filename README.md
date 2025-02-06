@@ -67,7 +67,7 @@ Además, se incluye un script de **post-eliminación** para limpiar archivos res
 ### **1. Clonar el Repositorio**
 ```bash
 git clone https://github.com/Gamabere921/borrar-nodo-proxmox.git
-cd proxmox-remove-node
+cd borrar-nodo-proxmox
 ```
 
 ### **2. Dar Permisos de Ejecución**
